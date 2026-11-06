@@ -4,11 +4,14 @@ An AI-powered system that lets volunteers photograph seagrass meadows with a mob
 
 **Live website:** https://sgm-seagrass.vercel.app
 
-<!-- After uploading screenshots, remove the "<!--" and "-->" markers around the lines below -->
-<!--
-![Web dashboard](images/web-map.png)
-![Mobile app](images/mobile-app.png)
--->
+ ![Home page](web-home.png)
+
+   <p>
+     <img src="dashboard.png" width="49%" alt="Dashboard" />
+     <img src="map.png" width="49%" alt="Map" />
+   </p>
+
+   <img src="mobile-home.jpg" width="260" alt="Mobile app" />
 
 ## How it works
 
